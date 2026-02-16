@@ -193,7 +193,7 @@ http://localhost:8501
 
 ---
 
-## 📊 API Endpoints
+## API Endpoints
 
 ### Upload Resume
 
@@ -227,7 +227,7 @@ POST /evaluate_resume
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 ```
 pytest tests/
@@ -235,7 +235,7 @@ pytest tests/
 
 ---
 
-## 📈 Example Output
+## Example Output
 
 Ranking:
 
@@ -260,7 +260,7 @@ Shortlist
 
 ---
 
-## 🎯 Real-World Use Case
+## Real-World Use Case
 
 This system can be used by:
 
@@ -273,7 +273,7 @@ To automate and improve hiring efficiency.
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates:
 
@@ -288,7 +288,7 @@ This project demonstrates:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Possible enhancements:
 
@@ -301,7 +301,7 @@ Possible enhancements:
 
 ---
 
-## 👤 Author
+## Author
 
 **Naveen Dali**
 
@@ -309,10 +309,11 @@ Python Developer | Generative AI Engineer
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 This project showcases how AI can automate resume screening and help recruiters make faster, smarter, and more accurate hiring decisions.
 
 It reflects real-world AI engineering skills including backend development, LLM integration, and full-stack AI application design.
 
 ---
+
